@@ -1,0 +1,211 @@
+body{
+	background-color: #eeeff1;
+	 font-family: 'Source Sans Pro', sans-serif;
+}
+.top-head{
+	font-size: 23px;
+    color: #333e48;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.prodcts{
+	padding: 35px;
+	/*height: 100%;*/
+}
+.discount img{
+	width:100%;
+	max-height: 262px;
+	height: 262px;
+}
+.ad_bottom img{
+	width: 100%;
+}
+
+.ad_bottom4 img{
+	width: 100%;
+    height: 100%;
+}
+.footer-top{
+	background-color: #ffffff;
+}
+.footer-top h6{
+	font-size: 16px;
+font-weight: 600;
+color: #434d56
+}
+.footer-top .fa{
+	font-size: 30px;
+	margin:8px auto;
+}
+.footer-middle{
+	background:url("../images/footer-bkrnd.jpg") repeat;
+}
+.footer-middle h6{
+ color:#ffffff;
+ font-size: 20px;
+font-weight: 600;
+margin-bottom: 20px;
+}
+.footer-middle li{
+list-style: none;
+}
+.footer-middle li a{
+	color:#ededed;
+	font-size: 16px;
+font-weight: 600;
+line-height: 32px;
+
+}
+.footer-middle p{
+color:#ededed;
+font-weight: 600;
+line-height: 18px;
+}
+.footer-middle ul{
+	margin:0px;
+	padding:0px; 
+}
+.footer-middle li a span{
+	margin-right:10px;
+}
+.footer-middle .form-control:focus{
+	border-color: #1f2020;
+}
+.footer-copyright{
+	background-color: #333333;
+	padding: 12px 0;
+}
+.cmpy-details{
+	padding: 50px 0;
+}
+.fa-facebook{
+	background: #bdb8b8;
+height: 30px;
+width: 30px;
+text-align: center;
+border-radius: 50%;
+font-size: 19px !important;
+padding: 7px 0;
+font-weight: 600 !important;
+}
+.fa-twitter{
+	background: #bdb8b8;
+height: 30px;
+width: 30px;
+text-align: center;
+border-radius: 50%;
+font-size: 24px !important;
+padding: 4px 0;
+}
+.fa-pinterest-p{
+	background: #bdb8b8;
+height: 30px;
+width: 30px;
+text-align: center;
+border-radius: 50%;
+font-size: 19px !important;
+padding: 7px 0;
+font-weight: 600 !important;
+}
+.fa-tumblr{
+	background: #bdb8b8;
+height: 30px;
+width: 30px;
+text-align: center;
+border-radius: 50%;
+font-size: 17px !important;
+padding: 7px 0;
+font-weight: 600 !important;
+}
+.address p{
+	margin: 20px;
+line-height: 18px;
+font-size: 16px;
+font-weight: 600;
+letter-spacing: 1px;
+}
+.contact-no{
+	margin:0px 0px 0px 20px !important;
+}
+.social-icons{
+	margin: 15px -5px;
+}
+.pro-discount{
+	margin-top: 25px;
+}
+.content-bottom{
+	margin:30px 10px; 
+}
+.price{
+	height: 100%;
+}
+.pro-service{
+	width: auto !important;	
+}
+.prodcts a{
+color: #e50013;
+}
+.address img{
+margin-left:20px; 
+}
+@media only screen and (max-width: 767px) {
+	.margin-btm{
+		margin-bottom: 25px;
+	}
+	.footer-content .col-md-6{
+	padding:20px 30px;
+}
+.price{
+	height: 100%;
+	max-height: 100%;
+}
+.icon{
+	width: auto !important;
+}
+.footer-top{
+	padding: 15px;
+}
+.top-head {
+    font-size: 18px !important;
+}
+.prodcts p{
+font-size: 17px !important;
+}
+
+}
+
+@media only screen and (min-width: 767px) and (max-width: 1024px) {
+	.margin-btm{
+		margin-bottom: 25px;
+	}
+.icon{
+	text-align: center;
+}
+.cmpy-details {
+    padding: 25px 0;
+}
+.footer-content{
+	margin-top: 20px;
+}
+.footer-content .col-md-6{
+	padding:20px 30px;
+}
+.top-head {
+    font-size: 17px !important;
+}
+}
+.footer-copyright p{
+	color:#bcbcbc;
+	margin-bottom: 0px;
+	text-align: center;
+}
+.social-icons .btn-sm{
+	padding: 3px;
+}
+.news {
+    margin: auto 35px auto 8px;
+}
+.news .form-control{
+	border-radius: 0px;
+	height: 40px;
+}

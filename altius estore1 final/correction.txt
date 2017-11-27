@@ -1,0 +1,19 @@
+mobile galaxy s5:
+
+nav icon alignment 
+ logo alignment
+  products add in the cart - aligment
+product page list : 
+  search user, cart background color
+  tile of the category  
+  sort by drop down width
+   width: products .....
+   
+   related products upsell width  http://192.168.1.78/estore/blains/65751.html http://192.168.1.78/estore/blains/gator-aluminum-oxide-coarse-medium.html
+   
+   
+  
+  
+
+
+
